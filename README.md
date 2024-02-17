@@ -19,10 +19,14 @@
 
 ### Languages
 
-![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
-![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
-![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
+![c](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
+![c++](https://img.shields.io/badge/c++-black?style=flat-square&logo=c%2B%2B)
+![csharp](https://img.shields.io/badge/csharp-black?style=flat-square&logo=c-sharp)
+![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
+![java](https://img.shields.io/badge/java-black?style=flat-square&logo=java)
+![kotlin](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin)
+![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
+![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3)
 
 ### Technologies & Frameworks
 
