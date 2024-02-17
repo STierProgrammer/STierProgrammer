@@ -64,33 +64,4 @@
     <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STierProgrammer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
 </p>
 
-## ⭐ My Projects
 
-<details>
-  <summary><b>🛡️ &nbsp;Discord</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/STierProgrammer/Discord-Helper">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=STierProgrammer&repo=Discord-Helper&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/STierProgrammer/Discord-Cashsystem">
-     <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=STierProgrammer&repo=Discord-Cashsystem&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary><b>🌐 &nbsp;Websites</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/STierProgrammer/Adminpanel">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=STierProgrammer&repo=Adminpanel&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/STierProgrammer/CodeFlexx">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=STierProgrammer&repo=CodeFlexx&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/STierProgrammer/DiscordID2IP">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=STierProgrammer&repo=DiscordID2IP&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
