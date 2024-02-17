@@ -13,8 +13,6 @@
   </a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/STierProgrammer/STierProgrammer/output/github-contribution-grid-snake-dark.svg)
-
 ## 🚀 Technologies & Tools
 
 ### Languages
@@ -23,7 +21,6 @@
 ![cplusplus](https://img.shields.io/badge/C++-black?style=flat-square&logo=c%2B%2B)
 ![csharp](https://img.shields.io/badge/C%23-black?style=flat-square&logo=c-sharp)
 ![python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
 ![kotlin](https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
 ![html5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
 ![css3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
