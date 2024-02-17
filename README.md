@@ -19,7 +19,7 @@
 
 ### Languages
 
-![c](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
+![c](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
 ![c++](https://img.shields.io/badge/c++-black?style=flat-square&logo=c%2B%2B)
 ![csharp](https://img.shields.io/badge/csharp-black?style=flat-square&logo=c-sharp)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
