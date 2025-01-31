@@ -5,7 +5,7 @@
 int main() {
     printf("Hello, I am STierProgrammer!");
 
-    return 0
+    return 0;
 }
 ```
 
