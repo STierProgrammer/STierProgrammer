@@ -17,3 +17,32 @@ int main() {
 </p>
 
 
+```
+section .data
+    content db "It's me STierProgrammer!", 0Ah 
+    len equ $-content
+
+section .bss
+    hStdOut resq 1
+
+section .text
+    global main
+    extern GetStdHandle, WriteConsoleA, ExitProcess
+    extern kernel32.dll 
+
+main:
+    sub rsp, 32
+    mov ecx, -11 
+    call GetStdHandle
+
+    mov qword [rel hStdOut], rax 
+
+    mov rcx, qword [rel hStdOut] 
+    lea rdx, [rel content]
+    mov r8, len
+    lea r9, [rsp-8] 
+    call WriteConsoleA
+
+    xor ecx, ecx
+    call ExitProcess
+```
