@@ -17,7 +17,7 @@ int main() {
 </p>
 
 
-```
+```asm
 section .data
     content db "It's me STierProgrammer!", 0Ah 
     len equ $-content
