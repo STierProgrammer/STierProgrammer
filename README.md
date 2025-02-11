@@ -19,7 +19,7 @@ int main() {
 
 ```asm
 section .data
-    content db "It's me STierProgrammer!", 0Ah 
+    content db "STierProgrammer!", 0Ah 
     len equ $-content
 
 section .bss
